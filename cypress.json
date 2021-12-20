@@ -1,0 +1,6 @@
+{
+    "viewportWidth": 1600,
+    "viewportHeight": 600,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://twitter-clone-example.herokuapp.com"
+}
